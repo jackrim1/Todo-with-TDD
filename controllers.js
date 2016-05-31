@@ -7,5 +7,5 @@ toDoApp.controller('ToDoController', ['ToDoFactory', function(ToDoFactory) {
   self.removeToDo = function() {
     self.todos.pop();
   };
-});
+}])
 

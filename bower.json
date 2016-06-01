@@ -1,0 +1,20 @@
+{
+  "name": "further_javascript",
+  "description": "",
+  "main": "ToDoFactory.js",
+  "authors": [
+    "Jack Riminton <jriminton@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jackrim1/Further-JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6"
+  }
+}
